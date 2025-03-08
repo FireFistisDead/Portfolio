@@ -1,0 +1,60 @@
+About Yash:
+Yash Khare is a passionate and dedicated professional in AI, Machine Learning, Cybersecurity, and Software Development. Currently pursuing a B.Tech in AI and Machine Learning, Yash has a strong foundation in programming, problem-solving, and cybersecurity. With hands-on experience in AI-based projects and hackathons, Yash is eager to contribute to innovative solutions in the tech industry.
+
+
+Work Experience:
+Cybersecurity Enthusiast & AI Developer (Ongoing)
+Hands-on experience with cybersecurity tools such as Metasploit, Burp Suite, and Hydra.
+Developed AI-driven solutions in multiple projects, including malware detection and computer vision-based systems.
+
+
+Career Goal:
+Yash aims to leverage expertise in AI, cybersecurity, and software development to create impactful solutions that drive technological advancements and enhance security in the digital world.
+
+Skills: 
+Programming Languages like Python, C++, Java, C
+Frameworks, Libraries, and Tools like MetaSploit, OpenCV, Pandas, Keras, Scikit-learn, Jupyter Notebook, Git
+Problem-Solving Expertise with Solved 125+ algorithmic challenges on LeetCode
+Machine Learning & AI Classification, regression, clustering, computer vision
+Cybersecurity Ethical hacking, penetration testing, and vulnerability assessment
+
+Certification:
+Google CyberSecurity Certificate
+Data Structures and Algorithms with Java (NPTEL, IIT Kharagpur)
+4 Certifications on HackerRank, including Problem Solving (Intermediate)
+
+Achievements:
+Academic Excellence Achieved 2nd rank in Semester 3 (SGPA: 9.26/10); awarded the MYSY Government Scholarship.
+Hackathons & Competitions
+Ranked in the Top 10% in the CodeKaze DSA Hackathon
+Participated in Dose DSA Hackathon
+Ranked Top 9 in SIH Internal Hackathon 2024 for healthcare solutions
+Cybersecurity
+Hands-on experience with penetration testing and ethical hacking tools.
+Participated in TryHackMe’s Advent of Cyber for real-world cybersecurity training.
+
+Contact:
+LinkedIn: https://www.linkedin.com/in/yash-khare-8b571028a/
+Phone: 9727835549
+Location: Ahmedabad
+
+Strengths and Advantages:
+Yash's strengths lie in problem-solving, adaptability, and innovation. With a keen interest in AI and cybersecurity, Yash is committed to developing impactful solutions while continuously learning and improving skills.
+
+Weaknesses and Disadvantages:
+Yash's deep curiosity and passion for excellence sometimes lead to excessive time spent on analysis, but this ensures high-quality and well-optimized solutions.
+
+Interests and Hobbies:
+Yash enjoys working on AI and cybersecurity projects, exploring new technologies, and participating in hackathons. Outside of tech, Yash finds joy in swimming, gaming, and engaging with coding communities.
+
+
+
+Portfolio:
+Explore Yash's portfolio of innovative projects on GitHub and LeetCode. These platforms showcase Yash's work in AI, cybersecurity, and software development, offering insights into problem-solving approaches and creative solutions.
+
+
+Availability:
+Yash is actively seeking new opportunities and is available to start immediately.
+
+References:
+References are available upon request.
