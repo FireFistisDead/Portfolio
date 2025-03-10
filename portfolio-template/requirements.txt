@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Pillow==9.5.0
 Requests==2.30.0
 streamlit==1.22.0
